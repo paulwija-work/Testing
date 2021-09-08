@@ -8,3 +8,4 @@ tellurium==2.0.5
 forge-event-chain==0.18.17
 oslo-privsep==1.27.0
 coala==0.12.0.dev20170623170820
+wtforms>=3.0.0a1 # not directly required, pinned by Snyk to avoid a vulnerability
