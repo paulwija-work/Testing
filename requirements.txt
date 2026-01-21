@@ -2,7 +2,7 @@ bespin-cli==0.0.11
 stis_cti==0.4-beta9
 django-kong-admin==0.4.0
 imtools==1.0.2
-chatterbot==1.0.5
+chatterbot==1.2.11
 django-datebook==1.2.0
 tellurium==2.0.5
 forge-event-chain==0.18.17
